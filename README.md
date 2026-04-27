@@ -1,7 +1,7 @@
 # Basic Projects
 
 ## Python Calculator
-A simple calculator built using Python that performs basic arithmetic operations.
+A simple calculator built using Python.
 
-## To-Do List
-A basic to-do list application to manage daily tasks.
+- Supports addition, subtraction, multiplication, and division
+- Handles division by zero errors
